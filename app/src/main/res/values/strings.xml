@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TMDB</string>
+    <string name="tab_text_1">Popular</string>
+    <string name="tab_text_2">Mas Votados</string>
+    <string name="tab_text_3">Proximos</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="share">share</string>
+    <string name="label_title">Titulo</string>
+    <string name="label_year_detail">Año de lanzamiento</string>
+    <string name="title_count_votos">Cafilicacion:</string>
+    <string name="title_count_populary">Popularidad</string>
+    <string name="label_description">Descripcion</string>
+    <string name="Copyright">Copyright © 2019 - Santiago Andres sepulveda</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="search">Buscador</string>
+    <string name="label_language">Idioma</string>
+    <string name="label_category">Categorias</string>
+    <string name="text_info_not_movie">No se encontraron películas!, verifica  tu conexión a Internet y vuelve a intentar...</string>
+</resources>
