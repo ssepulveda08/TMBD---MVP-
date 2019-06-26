@@ -51,10 +51,13 @@ Las principales características que debe tener un código limpio son
 
 ## Screenshot
 
-![home](screenshot/Screenshot_2019-06-25-14-35-30.png)
+<img src="./screenshot/Screenshot_2019-06-25-14-35-30.png" data-canonical-src="./screenshot/Screenshot_2019-06-25-14-35-30.png" width="200" height="400" />
+<img src="./screenshot/Screenshot_2019-06-25-14-35-05.png" data-canonical-src="./screenshot/Screenshot_2019-06-25-14-35-05.png" width="200" height="400" />
+<img src="./screenshot/Screenshot_2019-06-25-14-34-59.png" data-canonical-src="./screenshot/Screenshot_2019-06-25-14-34-59.png" width="200" height="400" />
+
 
 
 
 ## Autor
 
-* **Santiago Sepulvbeda** - *Desarrollador Android* - [PurpleBooth](https://ssepulveda08.github.io/Santiagoweb/)
+* **Santiago Sepulvbeda** - *Desarrollador Android* - [web](https://ssepulveda08.github.io/Santiagoweb/)
