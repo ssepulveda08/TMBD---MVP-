@@ -23,7 +23,7 @@ Cada modulo cuenta con una arquitectura Modelo Vista Presentador (MPV), donde el
 Se crea una tabla en [SQLite](https://www.sqlite.org/index.html) para almacenar las series y películas  en la carga inicial. la aplicación es capas de detectar si cuenta con Internet y si es así actualiza los datos realizando la petición http.
 
 
-## Versioning
+## Versión
 	* Versión 0.0.1-beta
 		
 
